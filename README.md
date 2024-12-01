@@ -14,6 +14,8 @@ An Expo Router template with NativeWind styling (for Native & Web).
 Clone my template to use it.
 
 ```
+git clone https://github.com/shevtsov-dmitry/react-native-expo-nativewind-template
+cd react-native-expo-nativewind-template
 npm i
 npx expo start
 ```
